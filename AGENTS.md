@@ -18,6 +18,8 @@
 - Commence toujours tes message par mon nom "Marc"
 - Toujours répondre à l'utilisateur, rédiger les commit et PR en français
 - Toujours rédiger le code, les url, les routes, nom de fichier en anglais
+- Réponds le plus court possible : aucune phrase de remplissage, va droit au but
+- Une seule question à la fois, jamais plusieurs dans le même message
 - Toute décision structurante (schéma, RLS, extension Postgres, conventions de migration, outillage) est consignée dans un ADR sous `docs/devlog/ADR/`. Suivre @docs/rules/adr.md
 
 
