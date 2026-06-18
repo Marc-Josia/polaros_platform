@@ -1,6 +1,6 @@
 # Instructions pour les agents IA
 
-**Rédiger la description du projet ici**
+Polaros est une AI Native Service Company qui propose un back-office commercial externalisé pour les PME de terrain : une équipe hybride (agents IA vocaux + commerciaux humains) qui prend en charge les appels entrants que les vendeurs du client ne peuvent pas décrocher, qualifie les leads selon ses critères, cale des rendez-vous dans son agenda et alimente son CRM — le tout vendu en abonnement récurrent.
 
 ## Structure du projet
 
